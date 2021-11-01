@@ -50,6 +50,12 @@ Requires the sender have the DEFAULT_ADMIN_ROLE
 
 Update the required amount that must be pointed at non-owner addresses when minting a Meem.
 
+### `tokenIdsOfOwner(address owner)`
+
+**Returns:** `uint256[]` - Array of tokenIds that are owned by this address.
+
+Get all tokenIds owned by an address
+
 ### `childrenOf(uint256 tokenId)`
 
 **Returns:** `uint256[]` - Array of tokenIds that are children of this token.
