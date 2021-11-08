@@ -8,6 +8,12 @@ In order to facilitate future upgrades to Meems, we use [EIP-2535 Diamonds](http
 
 ## Smart Contract Quick Links
 
+### ABI / Typescript
+
+Full ABI with all functions: [Meem.json](https://raw.githubusercontent.com/meemproject/meem-contracts/master/types/Meem.json)
+
+Typechain Types: [https://github.com/meemproject/meem-contracts/tree/master/types/ethers-contracts](https://github.com/meemproject/meem-contracts/tree/master/types/ethers-contracts)
+
 ### Polygon
 
 **Coming Soon**

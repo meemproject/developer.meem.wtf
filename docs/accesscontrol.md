@@ -4,7 +4,7 @@ Part of the `AccessControlFacet`
 
 ## Methods
 
-### `DEFAULT_ADMIN_ROLE()`
+### `ADMIN_ROLE()`
 
 Role for the contract admin.
 

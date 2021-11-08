@@ -5,7 +5,10 @@
 * [Access Control](accesscontrol.md)
 * [Ownership](ownership.md)
 * [ERC721 Implementation](erc721.md)
-* [Meem](meem.md)
+* [Meem Admin](meemadmin.md)
+* [Meem Base](meembase.md)
+* [Meem Permissions](meempermissions.md)
+* [Meem Splits](meemsplits.md)
 * [Meem Anatomy](anatomy.md)
 
 <div style="bottom: 0; position: absolute; left: 0; margin-bottom: -10px; width: 100%;">
