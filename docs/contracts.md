@@ -20,17 +20,18 @@ Typechain Types: [https://github.com/meemproject/meem-contracts/tree/master/type
 
 ### Rinkeby Testnet
 
-**Main Proxy Contract: [0x3599f2D8dFf9a528C9e840d9EE6EB59551D70379](https://rinkeby.etherscan.io/address/0x3599f2D8dFf9a528C9e840d9EE6EB59551D70379)**
+**Main Proxy Contract: [0x87e5882fa0ea7e391b7e31E8b23a8a38F35C84Ac](https://rinkeby.etherscan.io/address/0x87e5882fa0ea7e391b7e31E8b23a8a38F35C84Ac)**
 
 #### Facets
 
-* AccessControlFacet: [0x6a8F5DF7Be540451B1cD87633287735A701Fb23b](https://rinkeby.etherscan.io/address/0x6a8F5DF7Be540451B1cD87633287735A701Fb23b)
-* InitDiamond: [0xD8a13E0F9BB3D88E36e5DFD9dd880F390798500d](https://rinkeby.etherscan.io/address/0xD8a13E0F9BB3D88E36e5DFD9dd880F390798500d)
-* MeemAdminFacet: [0xaf855F3530c48b2A2399aB99a1B87C02d35c1753](https://rinkeby.etherscan.io/address/0xaf855F3530c48b2A2399aB99a1B87C02d35c1753)
-* MeemBaseFacet: [0x0FCabE1042eD14E8c7CbB63624004cbe9301e8a8](https://rinkeby.etherscan.io/address/0x0FCabE1042eD14E8c7CbB63624004cbe9301e8a8)
-* MeemPermissionsFacet: [0x00363C03EdFE0a371c91De97a467Ec5B474DD187](https://rinkeby.etherscan.io/address/0x00363C03EdFE0a371c91De97a467Ec5B474DD187)
-* MeemSplitsFacet: [0x27D2EB0f28Ec17b1d657BE88990D6295E95733D7](https://rinkeby.etherscan.io/address/0x27D2EB0f28Ec17b1d657BE88990D6295E95733D7)
-* ERC721Facet: [0x6d0D0594046bB42AA50fa3fECe652804a3d508A0](https://rinkeby.etherscan.io/address/0x6d0D0594046bB42AA50fa3fECe652804a3d508A0)
+* AccessControlFacet: [0x1fE8d8A48181F99EeEAbF5b580e05D42699E517f](https://rinkeby.etherscan.io/address/0x1fE8d8A48181F99EeEAbF5b580e05D42699E517f)
+* ERC721Facet: [0x6fF4a58A037dB94B5F402A19C335C729461040b3](https://rinkeby.etherscan.io/address/0x6fF4a58A037dB94B5F402A19C335C729461040b3)
+* InitDiamond: [0x8268529c16727cf9a6eF2Ec3f5964A6246752d5f](https://rinkeby.etherscan.io/address/0x8268529c16727cf9a6eF2Ec3f5964A6246752d5f)
+* MeemAdminFacet: [0x68183E5636564df820F1CF4Bd0050ffb6F22D763](https://rinkeby.etherscan.io/address/0x68183E5636564df820F1CF4Bd0050ffb6F22D763)
+* MeemBaseFacet: [0xD73438CF2c2D3Fcb377ADAb6bA0d591e58565273](https://rinkeby.etherscan.io/address/0xD73438CF2c2D3Fcb377ADAb6bA0d591e58565273)
+* MeemPermissionsFacet: [0x41C3ed7Afb404B664E04Da7510047c359dd39d0A](https://rinkeby.etherscan.io/address/0x41C3ed7Afb404B664E04Da7510047c359dd39d0A)
+* MeemQueryFacet: [0x16Abd7CbeC0967aAf2738c19b44Ef4500654478B](https://rinkeby.etherscan.io/address/0x16Abd7CbeC0967aAf2738c19b44Ef4500654478B)
+* MeemSplitsFacet: [0x9f8A5A4B5F7763fD8E0782aa0AE07a3F3D2fD315](https://rinkeby.etherscan.io/address/0x9f8A5A4B5F7763fD8E0782aa0AE07a3F3D2fD315)
 
 ## Source Code
 
