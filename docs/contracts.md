@@ -21,7 +21,7 @@ Typechain Types: [https://github.com/meemproject/meem-contracts/tree/master/type
 #### Facets
 
 * AccessControlFacet: [0x3559D702A7849C67513f815A2cC86EbEa030f768](https://polygonscan.com/address/0x3559D702A7849C67513f815A2cC86EbEa030f768)
-* ERC721Facet: [0x56a4d36a336452B65891FEf9A0e5E569B254ec71](https://polygonscan.com/address/0x56a4d36a336452B65891FEf9A0e5E569B254ec71)
+* ERC721Facet: [0xb2694b2a362a1b81ab45E4512f2339d36588Add1](https://polygonscan.com/address/0xb2694b2a362a1b81ab45E4512f2339d36588Add1)
 * InitDiamond: [0x65c7CA5057E5DAbf1a9D8dB34151a9C29a604A3F](https://polygonscan.com/address/0x65c7CA5057E5DAbf1a9D8dB34151a9C29a604A3F)
 * MeemAdminFacet: [0x2cB2a608bEd463e8862533630E61D9d348647f6F](https://polygonscan.com/address/0x2cB2a608bEd463e8862533630E61D9d348647f6F)
 * MeemBaseFacet: [0xD7522b45506Fe7c8AF00fDF5eF6A055C50eb93e7](https://polygonscan.com/address/0xD7522b45506Fe7c8AF00fDF5eF6A055C50eb93e7)
