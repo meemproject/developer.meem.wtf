@@ -1,4 +1,4 @@
-# Smart Contracts
+# Meem Smart Contracts
 
 In order to facilitate future upgrades to Meems, we use [EIP-2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535).
 

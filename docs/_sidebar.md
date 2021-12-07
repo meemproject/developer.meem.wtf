@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
 
 * [Introduction](/)
-* [Smart Contracts](contracts.md)
+* [Meem Smart Contracts](contracts.md)
+* [Meem ID Smart Contracts](meemidcontracts.md)
 * [Access Control](accesscontrol.md)
 * [Ownership](ownership.md)
 * [ERC721 Implementation](erc721.md)
