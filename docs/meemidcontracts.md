@@ -16,8 +16,6 @@ Typechain Types: [https://github.com/meemproject/meem-id-contracts/tree/master/t
 
 ### Polygon (Live Contract)
 
-Coming Soon...
-
 **Main Proxy Contract: [0xb3a3cE42A26a2feFc4FCcE8400700C7059Fe0e2F](https://polygonscan.com/address/0xb3a3cE42A26a2feFc4FCcE8400700C7059Fe0e2F)**
 
 #### Facets
