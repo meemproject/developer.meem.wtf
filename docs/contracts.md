@@ -20,14 +20,14 @@ Typechain Types: [https://github.com/meemproject/meem-contracts/tree/master/type
 
 #### Facets
 
-* AccessControlFacet: [0x3559D702A7849C67513f815A2cC86EbEa030f768](https://polygonscan.com/address/0x3559D702A7849C67513f815A2cC86EbEa030f768)
-* ERC721Facet: [0xb2694b2a362a1b81ab45E4512f2339d36588Add1](https://polygonscan.com/address/0xb2694b2a362a1b81ab45E4512f2339d36588Add1)
+* AccessControlFacet: [0xB5e8573331888047B1fc72f1d05444Cc1eEe4Ae9](https://polygonscan.com/address/0xB5e8573331888047B1fc72f1d05444Cc1eEe4Ae9)
+* ERC721Facet: [0xf5a0fD628AFe07D8c3736762Bd65Ae009F23e335](https://polygonscan.com/address/0xf5a0fD628AFe07D8c3736762Bd65Ae009F23e335)
 * InitDiamond: [0x65c7CA5057E5DAbf1a9D8dB34151a9C29a604A3F](https://polygonscan.com/address/0x65c7CA5057E5DAbf1a9D8dB34151a9C29a604A3F)
-* MeemAdminFacet: [0x2cB2a608bEd463e8862533630E61D9d348647f6F](https://polygonscan.com/address/0x2cB2a608bEd463e8862533630E61D9d348647f6F)
-* MeemBaseFacet: [0xD7522b45506Fe7c8AF00fDF5eF6A055C50eb93e7](https://polygonscan.com/address/0xD7522b45506Fe7c8AF00fDF5eF6A055C50eb93e7)
-* MeemPermissionsFacet: [0x119C57b82c5AAd05bC116b7a7606f461F4B36dFB](https://polygonscan.com/address/0x119C57b82c5AAd05bC116b7a7606f461F4B36dFB)
-* MeemQueryFacet: [0x81331b38Ee93d3b136c83cD06311a3472b9228c1](https://polygonscan.com/address/0x81331b38Ee93d3b136c83cD06311a3472b9228c1)
-* MeemSplitsFacet: [0xA339124e7aD5c31d546fB611C2c1F4855091A8DF](https://polygonscan.com/address/0xA339124e7aD5c31d546fB611C2c1F4855091A8DF)
+* MeemAdminFacet: [0x4f999BE4DCC960c4Aa578728cdA1E8d8f53e9529](https://polygonscan.com/address/0x4f999BE4DCC960c4Aa578728cdA1E8d8f53e9529)
+* MeemBaseFacet: [0xBA78291b5f511F6F03D7646bCd11Ac9eC058EDeB](https://polygonscan.com/address/0xBA78291b5f511F6F03D7646bCd11Ac9eC058EDeB)
+* MeemPermissionsFacet: [0x14f6E03432424c88Bdb0252F670c70DB8eA37A00](https://polygonscan.com/address/0x14f6E03432424c88Bdb0252F670c70DB8eA37A00)
+* MeemQueryFacet: [0x9594D6eC22ad72400a93Ad2235f649E1cF12213E](https://polygonscan.com/address/0x9594D6eC22ad72400a93Ad2235f649E1cF12213E)
+* MeemSplitsFacet: [0x545De2D3FFeF9e8eCAEB6dE74460C7FecB2313F5](https://polygonscan.com/address/0x545De2D3FFeF9e8eCAEB6dE74460C7FecB2313F5)
 
 ### Rinkeby (Testnet Contract)
 
